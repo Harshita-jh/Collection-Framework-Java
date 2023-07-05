@@ -1,7 +1,6 @@
 package collectionframe;
 
 import java.util.LinkedHashSet;
-import java.util.LinkedList;
 
 public class LinkedHashSetDemo {
     public static void main(String[] args) {

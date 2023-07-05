@@ -1,7 +1,6 @@
 package collectionframe;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * ListDemo
