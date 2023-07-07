@@ -4,7 +4,9 @@ import java.util.HashMap;
 
 public class HashMapDemo {
     public static void main(String[] args) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.
+        HashMap<String, Integer> map = new HashMap<>();
+        map.put("Second", 20);
+        map.put("First", 10);
+        System.out.println("HashMap = "+map);
     }
 }
